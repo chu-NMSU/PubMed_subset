@@ -1,0 +1,2319 @@
+1	the journal of general physiology
+2	the journal of physiology
+3	proceedings of the national academy of sciences of the united states of america
+4	british journal of pharmacology
+5	british journal of pharmacology and chemotherapy
+6	biophysical journal
+7	the journal of cell biology
+8	science (new york, n.y.)
+9	nature
+10	journal of neurology, neurosurgery, and psychiatry
+11	the journal of clinical investigation
+12	british journal of experimental pathology
+13	molecular biology of the cell
+14	development (cambridge, england)
+15	journal of anatomy
+16	the embo journal
+17	the biochemical journal
+18	pflugers archiv : european journal of physiology
+19	cell regulation
+20	infection and immunity
+21	molecular and cellular biology
+22	british journal of clinical pharmacology
+23	journal of neurophysiology
+24	the yale journal of biology and medicine
+25	the american journal of pathology
+26	journal of virology
+27	environmental health perspectives
+28	the plant cell
+29	british heart journal
+30	plant physiology
+31	brain research
+32	british journal of cancer
+33	the journal of experimental medicine
+34	philosophical transactions of the royal society of london. series b, biological
+35	the british journal of cancer. supplement
+36	the journal of neuroscience : the official journal of the society for
+37	the western journal of medicine
+38	the journal of biophysical and biochemical cytology
+39	hearing research
+40	british medical journal (clinical research ed.)
+41	journal of applied physiology: respiratory, environmental and exercise physiology
+42	the american journal of anatomy
+43	circulation research
+44	the european journal of neuroscience
+45	journal of psychiatry & neuroscience : jpn
+46	neuron
+47	cardiovascular research
+48	nucleic acids research
+49	clinical science (london, england : 1979)
+50	experimental physiology
+51	european journal of pharmacology
+52	journal of molecular and cellular cardiology
+53	journal of autonomic pharmacology
+54	immunology today
+55	thorax
+56	transactions of the american ophthalmological society
+57	molecular pharmacology
+58	proceedings. biological sciences / the royal society
+59	neuroreport
+60	neuropharmacology
+61	genes & development
+62	journal of comparative physiology. a, sensory, neural, and behavioral physiology
+63	molecular medicine (cambridge, mass.)
+64	archives of disease in childhood. fetal and neonatal edition
+65	visual neuroscience
+66	current opinion in cell biology
+67	microbiology and molecular biology reviews : mmbr
+68	genetics
+69	journal of cellular biochemistry. supplement
+70	gut
+71	american journal of human genetics
+72	clinical and experimental immunology
+73	international journal of experimental pathology
+74	clinical microbiology reviews
+75	annals of surgery
+76	nature neuroscience
+77	learning & memory (cold spring harbor, n.y.)
+78	cellular and molecular life sciences : cmls
+79	hypertension
+80	journal of clinical microbiology
+81	molecular pathology : mp
+82	annals of the rheumatic diseases
+83	experimental brain research. experimentelle hirnforschung. experimentation
+84	immunology
+85	microcirculation (new york, n.y. : 1994)
+86	the journal of biological chemistry
+87	american journal of physiology. gastrointestinal and liver physiology
+88	neoplasia (new york, n.y.)
+89	journal of comparative physiology. b, biochemical, systemic, and environmental
+90	neuroscience
+91	journal of medical genetics
+92	oncogene
+93	bmc cell biology
+94	molecular vision
+95	annals of biomedical engineering
+96	annual review of biomedical engineering
+97	nature medicine
+98	embo reports
+99	hepatology (baltimore, md.)
+100	biochemistry
+101	current biology : cb
+102	breast cancer research : bcr
+103	the journal of comparative neurology
+104	bmc physiology
+105	motor control
+106	annual review of neuroscience
+107	respiratory research
+108	bmc musculoskeletal disorders
+109	bmc neuroscience
+110	rna (new york, n.y.)
+111	pharmacology & therapeutics
+112	diabetologia
+113	the journal of membrane biology
+114	journal of cell science
+115	cell
+116	seminars in cancer biology
+117	cell communication & adhesion
+118	journal of manipulative and physiological therapeutics
+119	journal of the association for research in otolaryngology : jaro
+120	journal of leukocyte biology
+121	american journal of physiology. heart and circulatory physiology
+122	frontiers in bioscience : a journal and virtual library
+123	developmental cell
+124	bioessays : news and reviews in molecular, cellular and developmental biology
+125	journal of neurochemistry
+126	journal of the national cancer institute
+127	nature reviews. molecular cell biology
+128	american journal of physiology. cell physiology
+129	current drug targets. infectious disorders
+130	the neuroscientist : a review journal bringing neurobiology, neurology and
+131	eukaryotic cell
+132	differentiation; research in biological diversity
+133	protein science : a publication of the protein society
+134	glia
+135	european journal of cell biology
+136	bmc pharmacology
+137	news in physiological sciences : an international journal of physiology produced
+138	epilepsia
+139	bmc biochemistry
+140	physiological genomics
+141	journal of athletic training
+142	acta physiologica scandinavica
+143	cancer cell international
+144	physiological reviews
+145	gastroenterology
+146	trends in neurosciences
+147	biochemical pharmacology
+148	international journal of cancer. journal international du cancer
+149	alcoholism, clinical and experimental research
+150	journal of lipid research
+151	experimental cell research
+152	genome biology
+153	molecular cancer
+154	aging cell
+155	the international journal of biochemistry & cell biology
+156	journal of biology
+157	molecular cell
+158	journal of molecular biology
+159	current opinion in structural biology
+160	plos genetics
+161	nature structural & molecular biology
+162	journal of cellular physiology
+163	diabetes
+164	nature cell biology
+165	journal of korean medical science
+166	molecular and cellular biochemistry
+167	journal of applied physiology (bethesda, md. : 1985)
+168	journal of mammary gland biology and neoplasia
+169	neural computation
+170	plos biology
+171	traffic (copenhagen, denmark)
+172	biochimica et biophysica acta
+173	bmc genomics
+174	cerebral cortex (new york, n.y. : 1991)
+175	bmc structural biology
+176	trends in pharmacological sciences
+177	hippocampus
+178	bmc developmental biology
+179	retrovirology
+180	cell communication and signaling : ccs
+181	journal of neurocytology
+182	trends in cell biology
+183	journal of neuroscience methods
+184	genome research
+185	annals of the new york academy of sciences
+186	philosophical transactions. series a, mathematical, physical, and engineering
+187	molecular membrane biology
+188	toxicon : official journal of the international society on toxinology
+189	bmc infectious diseases
+190	lupus
+191	epilepsy currents / american epilepsy society
+192	microbes and infection / institut pasteur
+193	analytical chemistry
+194	current pharmaceutical design
+195	blood
+196	thalamus & related systems
+197	science's stke : signal transduction knowledge environment
+198	progress in biophysics and molecular biology
+199	circulation
+200	journal of cellular biochemistry
+201	synapse (new york, n.y.)
+202	neuropsychopharmacology : official publication of the american college of
+203	molecular and cellular neurosciences
+204	investigative ophthalmology & visual science
+205	british journal of sports medicine
+206	brain research. brain research reviews
+207	undersea biomedical research
+208	cell stress & chaperones
+209	bmc cancer
+210	bmc bioinformatics
+211	hormone and metabolic research = hormon- und stoffwechselforschung = hormones et
+212	cancer biology & therapy
+213	autonomic neuroscience : basic & clinical
+214	aids research and human retroviruses
+215	journal of neuroengineering and rehabilitation
+216	american journal of respiratory and critical care medicine
+217	american journal of physiology. renal physiology
+218	neurorx : the journal of the american society for experimental neurotherapeutics
+219	journal of clinical pathology
+220	arthritis research & therapy
+221	annual review of immunology
+222	viral immunology
+223	archaea (vancouver, b.c.)
+224	molecular pain
+225	theoretical biology & medical modelling
+226	bmc biology
+227	the journal of pharmacology and experimental therapeutics
+228	neurobiology of disease
+229	virology journal
+230	brain research. molecular brain research
+231	cellular microbiology
+232	virology
+233	journal of neuroscience research
+234	molecular & cellular proteomics : mcp
+235	american journal of physiology. regulatory, integrative and comparative
+236	pharmacological reviews
+237	the journal of experimental biology
+238	experimental eye research
+239	world journal of surgical oncology
+240	biochemical and biophysical research communications
+241	american journal of respiratory cell and molecular biology
+242	cytokine & growth factor reviews
+243	cell motility and the cytoskeleton
+244	clinical and diagnostic laboratory immunology
+245	current topics in medicinal chemistry
+246	progress in retinal and eye research
+247	structure (london, england : 1993)
+248	epilepsy & behavior : e&b
+249	clinical and experimental pharmacology & physiology
+250	journal of medicinal chemistry
+251	cell and tissue research
+252	pigment cell research / sponsored by the european society for pigment cell
+253	current neurovascular research
+254	current opinion in plant biology
+255	phytopathology
+256	the plant journal : for cell and molecular biology
+257	autophagy
+258	endocrinology
+259	biochemical society transactions
+260	cell death and differentiation
+261	histology and histopathology
+262	journal of physiology, paris
+263	journal of biological physics
+264	bmc evolutionary biology
+265	methods (san diego, calif.)
+266	antimicrobial agents and chemotherapy
+267	langmuir : the acs journal of surfaces and colloids
+268	plos pathogens
+269	developmental biology
+270	neurotoxicology
+271	journal of internal medicine
+272	cancer research
+273	plant methods
+274	clinical immunology (orlando, fla.)
+275	the journal of investigative dermatology
+276	developmental dynamics : an official publication of the american association of
+277	anatomical record. part b, new anatomist
+278	molecular therapy : the journal of the american society of gene therapy
+279	brain : a journal of neurology
+280	febs letters
+281	annual review of physiology
+282	cell cycle (georgetown, tex.)
+283	vision research
+284	trends in plant science
+285	the british journal of ophthalmology
+286	bmc chemical biology
+287	journal of the american chemical society
+288	acta crystallographica. section f, structural biology and crystallization
+289	bmc biotechnology
+290	chiropractic & osteopathy
+291	cell calcium
+292	cancer letters
+293	spinal cord
+294	dna repair
+295	clinical medicine & research
+296	genesis (new york, n.y. : 2000)
+297	the journal of physical chemistry. b
+298	current medicinal chemistry
+299	the oncologist
+300	modern rheumatology / the japan rheumatism association
+301	biorheology
+302	trends in biochemical sciences
+303	neuron glia biology
+304	journal of cardiovascular pharmacology
+305	investigational new drugs
+306	reproductive biology and endocrinology : rb&e
+307	journal of cerebral blood flow and metabolism : official journal of the
+308	journal of cardiovascular electrophysiology
+309	annual review of biophysics and biomolecular structure
+310	plos computational biology
+311	bioconjugate chemistry
+312	journal of neural engineering
+313	physical review. e, statistical, nonlinear, and soft matter physics
+314	nature reviews. neuroscience
+315	molecular systems biology
+316	current opinion in investigational drugs (london, england : 2000)
+317	proceedings of the american thoracic society
+318	annual review of biochemistry
+319	muscle & nerve
+320	the anatomical record. part a, discoveries in molecular, cellular, and
+321	pain
+322	journal of neuropathology and experimental neurology
+323	heart (british cardiac society)
+324	the international journal of neuroscience
+325	bmc neurology
+326	the aaps journal
+327	biophysical chemistry
+328	cell division
+329	cold spring harbor symposia on quantitative biology
+330	heart rhythm : the official journal of the heart rhythm society
+331	chromosoma
+332	annual review of cell and developmental biology
+333	antiviral research
+334	quarterly reviews of biophysics
+335	journal of the royal society, interface / the royal society
+336	human molecular genetics
+337	auditory neuroscience
+338	immunity
+339	archives of virology
+340	the journal of histochemistry and cytochemistry : official journal of the
+341	molecular cancer therapeutics
+342	progress in neurobiology
+343	bmc plant biology
+344	neurochemistry international
+345	annual review of pharmacology and toxicology
+346	molecular aspects of medicine
+347	nature chemical biology
+348	cell biochemistry and biophysics
+349	neural networks : the official journal of the international neural network
+350	virus research
+351	international journal of developmental neuroscience : the official journal of the
+352	molecular biology and evolution
+353	journal of biomedicine & biotechnology
+354	trends in cardiovascular medicine
+355	nature reviews. immunology
+356	genomics
+357	fertility and sterility
+358	european journal of heart failure
+359	toxicology and applied pharmacology
+360	applied and environmental microbiology
+361	neuroscience letters
+362	cellular signalling
+363	handbook of experimental pharmacology
+364	current topics in microbiology and immunology
+365	journal of cystic fibrosis : official journal of the european cystic fibrosis
+366	nature immunology
+367	cancer detection and prevention
+368	mechanisms of development
+369	archives of biochemistry and biophysics
+370	experimental neurology
+371	seminars in cell & developmental biology
+372	free radical biology & medicine
+373	fems microbiology letters
+374	biology direct
+375	journal of electromyography and kinesiology : official journal of the
+376	journal of proteome research
+377	steroids
+378	experimental gerontology
+379	mathematical biosciences
+380	plos one
+381	cell metabolism
+382	apoptosis : an international journal on programmed cell death
+383	peptides
+384	neurotherapeutics : the journal of the american society for experimental
+385	international journal of molecular medicine
+386	invertebrate neuroscience : in
+387	analytical biochemistry
+388	behavioural brain research
+389	neuro-signals
+390	respiratory physiology & neurobiology
+391	journal of immunology (baltimore, md. : 1950)
+392	naunyn-schmiedeberg's archives of pharmacology
+393	stroke; a journal of cerebral circulation
+394	clinical autonomic research : official journal of the clinical autonomic research
+395	infectious agents and cancer
+396	conference proceedings : ... annual international conference of the ieee
+397	acta physiologica (oxford, england)
+398	mutation research
+399	cardiovascular toxicology
+400	nature reviews. microbiology
+401	croatian medical journal
+402	otolaryngology--head and neck surgery : official journal of american academy of
+403	acta histochemica et cytochemica
+404	journal of muscle research and cell motility
+405	the canadian journal of cardiology
+406	archivum immunologiae et therapiae experimentalis
+407	plasmid
+408	purinergic signalling
+409	expert opinion on therapeutic targets
+410	cell & chromosome
+411	pharmaceutical research
+412	nature methods
+413	molecular oncology
+414	nature protocols
+415	brain research reviews
+416	arteriosclerosis, thrombosis, and vascular biology
+417	methods in molecular biology (clifton, n.j.)
+418	advances in cancer research
+419	nature genetics
+420	bmc molecular biology
+421	cancer treatment and research
+422	neural development
+423	journal of computational neuroscience
+424	international journal for parasitology
+425	progress in brain research
+426	journal of theoretical biology
+427	lancet
+428	journal of cardiac failure
+429	molecular neurobiology
+430	alcohol (fayetteville, n.y.)
+431	anesthesiology
+432	anesthesia and analgesia
+433	gene
+434	journal of zhejiang university. science. b
+435	bmc systems biology
+436	menopause (new york, n.y.)
+437	current gene therapy
+438	methods in cell biology
+439	cells, tissues, organs
+440	international journal of biological sciences
+441	neuroimage
+442	nature clinical practice. neurology
+443	molecular neurodegeneration
+444	the journal of general virology
+445	sub-cellular biochemistry
+446	current opinion in immunology
+447	annual review of genetics
+448	clinical neurophysiology : official journal of the international federation of
+449	cell host & microbe
+450	basic research in cardiology
+451	european biophysics journal : ebj
+452	microbiology (reading, england)
+453	advanced drug delivery reviews
+454	journal of autoimmunity
+455	methods in enzymology
+456	molecular biosystems
+457	neurobiology of learning and memory
+458	current opinion in neurobiology
+459	progress in lipid research
+460	cell biology international
+461	brain structure & function
+462	physiology & behavior
+463	molecular endocrinology (baltimore, md.)
+464	current opinion in oncology
+465	genes to cells : devoted to molecular & cellular mechanisms
+466	heart, lung & circulation
+467	faseb journal : official publication of the federation of american societies for
+468	european journal of applied physiology
+469	photochemistry and photobiology
+470	neurogastroenterology and motility : the official journal of the european
+471	cerebrospinal fluid research
+472	neurobiology of aging
+473	proteome science
+474	chemico-biological interactions
+475	plant signaling & behavior
+476	physiology (bethesda, md.)
+477	the spine journal : official journal of the north american spine society
+478	brain cell biology
+479	drug metabolism and disposition: the biological fate of chemicals
+480	clinical pharmacology and therapeutics
+481	nature reviews. cancer
+482	experimental biology and medicine (maywood, n.j.)
+483	journal of molecular signaling
+484	pathophysiology : the official journal of the international society for
+485	yonsei medical journal
+486	current opinion in chemical biology
+487	carcinogenesis
+488	journal of bioenergetics and biomembranes
+489	reviews in the neurosciences
+490	international journal of nanomedicine
+491	the british journal of dermatology
+492	prostaglandins & other lipid mediators
+493	photochemical & photobiological sciences : official journal of the european
+494	histochemistry and cell biology
+495	frontiers in neuroscience
+496	bioorganic & medicinal chemistry letters
+497	the journal of gene medicine
+498	protein expression and purification
+499	cancer cell
+500	microvascular research
+501	the journal of organic chemistry
+502	current neuropharmacology
+503	journal of human genetics
+504	cell research
+505	medical microbiology and immunology
+506	lab on a chip
+507	biological chemistry
+508	journal of structural biology
+509	psychopharmacology
+510	molecular carcinogenesis
+511	journal of the american society of nephrology : jasn
+512	neurocomputing
+513	journal of cellular and molecular medicine
+514	journal of pharmaceutical sciences
+515	world journal of gastroenterology : wjg
+516	archives of oral biology
+517	current diabetes reviews
+518	fems microbiology reviews
+519	channels (austin, tex.)
+520	journal of molecular neuroscience : mn
+521	cancer immunology, immunotherapy : cii
+522	clinical & experimental metastasis
+523	critical care clinics
+524	vaccine
+525	journal of clinical virology : the official publication of the pan american
+526	the biological bulletin
+527	ageing research reviews
+528	pediatric neurology
+529	toxicological sciences : an official journal of the society of toxicology
+530	expert review of proteomics
+531	journal of bone and mineral research : the official journal of the american
+532	biochemistry. biokhimiia
+533	biopolymers
+534	current drug targets
+535	current opinion in microbiology
+536	antioxidants & redox signaling
+537	neuroscience research
+538	kidney & blood pressure research
+539	journal of molecular histology
+540	current opinion in pharmacology
+541	molecular microbiology
+542	current opinion in genetics & development
+543	biomedicine & pharmacotherapy = biomedecine & pharmacotherapie
+544	journal of biochemistry
+545	chemistry and physics of lipids
+546	nature clinical practice. oncology
+547	carbohydrate research
+548	aids (london, england)
+549	journal of computer-aided molecular design
+550	cell stem cell
+551	mechanisms of ageing and development
+552	biomaterials
+553	nature clinical practice. cardiovascular medicine
+554	developmental neurobiology
+555	biological procedures online
+556	epilepsy research
+557	molecular genetics and metabolism
+558	brain pathology (zurich, switzerland)
+559	trends in molecular medicine
+560	stem cells (dayton, ohio)
+561	matrix biology : journal of the international society for matrix biology
+562	integrative and comparative biology
+563	the journal of infectious diseases
+564	cell proliferation
+565	american journal of physiology. lung cellular and molecular physiology
+566	journal of vascular research
+567	endocrine reviews
+568	environmental toxicology and pharmacology
+569	pharmacology, biochemistry, and behavior
+570	siam journal on scientific computing : a publication of the society for
+571	functional & integrative genomics
+572	frontiers in integrative neuroscience
+573	head & neck
+574	journal of experimental botany
+575	cellular physiology and biochemistry : international journal of experimental
+576	journal of biomolecular nmr
+577	journal of mathematical biology
+578	anatomical record (hoboken, n.j. : 2007)
+579	european journal of pediatrics
+580	dialogues in clinical neuroscience
+581	anti-cancer agents in medicinal chemistry
+582	american journal of physiology. endocrinology and metabolism
+583	journal of biomedical materials research. part b, applied biomaterials
+584	biological cybernetics
+585	stem cells and development
+586	the british journal of nutrition
+587	journal of neural transmission (vienna, austria : 1996)
+588	cytometry. part a : the journal of the international society for analytical
+589	cellular and molecular neurobiology
+590	molecular and cellular endocrinology
+591	fungal genetics and biology : fg & b
+592	current colorectal cancer reports
+593	ppar research
+594	journal of dermatological science
+595	acta neurobiologiae experimentalis
+596	experimental and molecular pathology
+597	sleep
+598	the american journal of psychiatry
+599	journal of investigative medicine : the official publication of the american
+600	future virology
+601	lipids
+602	cns & neurological disorders drug targets
+603	international journal of obesity (2005)
+604	annual review of genomics and human genetics
+605	international review of cell and molecular biology
+606	schizophrenia bulletin
+607	birth defects research. part c, embryo today : reviews
+608	cancer gene therapy
+609	in vitro cellular & developmental biology. animal
+610	mediators of inflammation
+611	molecular cancer research : mcr
+612	critical reviews in biochemistry and molecular biology
+613	platelets
+614	survey of ophthalmology
+615	annual review of biophysics
+616	science signaling
+617	european journal of immunology
+618	lipids in health and disease
+619	experimental parasitology
+620	current neurology and neuroscience reports
+621	future neurology
+622	journal of biomedical informatics
+623	journal of cell communication and signaling
+624	journal of biomedical optics
+625	acta biochimica et biophysica sinica
+626	mayo clinic proceedings. mayo clinic
+627	bmc genetics
+628	tissue & cell
+629	journal of autoimmune diseases
+630	annals of neurology
+631	journal of neurotrauma
+632	journal of neuroimmunology
+633	comparative biochemistry and physiology. part a, molecular & integrative
+634	acs chemical biology
+635	journal of experimental & clinical cancer research : cr
+636	american journal of therapeutics
+637	current genomics
+638	journal of thrombosis and haemostasis : jth
+639	bmc medicine
+640	drug discovery today. disease models
+641	experimental and clinical cardiology
+642	cardiology journal
+643	the febs journal
+644	the journal of pathology
+645	avian pathology : journal of the w.v.p.a
+646	lung cancer (amsterdam, netherlands)
+647	trends in genetics : tig
+648	nature reviews. genetics
+649	clinical infectious diseases : an official publication of the infectious diseases
+650	cell adhesion & migration
+651	behavioural pharmacology
+652	thrombosis research
+653	trends in endocrinology and metabolism: tem
+654	archives of ophthalmology
+655	current opinion in nephrology and hypertension
+656	cytokine
+657	laboratory investigation; a journal of technical methods and pathology
+658	biology of reproduction
+659	fly
+660	genes, chromosomes & cancer
+661	european journal of cancer (oxford, england : 1990)
+662	protein engineering, design & selection : peds
+663	journal of virological methods
+664	the prostate
+665	advances in immunology
+666	frontiers in cellular neuroscience
+667	expert reviews in molecular medicine
+668	advances in experimental medicine and biology
+669	molecular plant-microbe interactions : mpmi
+670	nano letters
+671	molecular plant
+672	shock (augusta, ga.)
+673	essays in biochemistry
+674	current opinion in hiv and aids
+675	journal of hypertension
+676	ernst schering foundation symposium proceedings
+677	future microbiology
+678	bioscience reports
+679	insect molecular biology
+680	current protocols in cell biology / editorial board, juan s. bonifacino ... [et
+681	arthritis and rheumatism
+682	hfsp journal
+683	clinical cancer research : an official journal of the american association for
+684	bioinformatics (oxford, england)
+685	protein and peptide letters
+686	cancer
+687	cellular immunology
+688	immunological reviews
+689	cellular & molecular biology letters
+690	immunologic research
+691	breast cancer research and treatment
+692	inflammatory bowel diseases
+693	journal of interferon & cytokine research : the official journal of the
+694	computers in biology and medicine
+695	journal of orthopaedic research : official publication of the orthopaedic
+696	cerebellum (london, england)
+697	cardiovascular & hematological agents in medicinal chemistry
+698	neurocritical care
+699	proteins
+700	chemistry & biology
+701	molecular immunology
+702	journal of dental research
+703	frontiers in molecular neuroscience
+704	frontiers in neural circuits
+705	the open biochemistry journal
+706	current opinion in rheumatology
+707	human mutation
+708	frontiers in behavioral neuroscience
+709	frontiers in neuroengineering
+710	frontiers in systems neuroscience
+711	radiation research
+712	molecular brain
+713	rna biology
+714	trends in microbiology
+715	nature biotechnology
+716	expert review of vaccines
+717	bmc immunology
+718	brazilian journal of medical and biological research = revista brasileira de
+719	medicinal research reviews
+720	microscopy and microanalysis : the official journal of microscopy society of
+721	neural plasticity
+722	recent patents on anti-cancer drug discovery
+723	annual review of physical chemistry
+724	nature physics
+725	cytotechnology
+726	systems and synthetic biology
+727	proteomics
+728	experimental hematology
+729	pulmonary pharmacology & therapeutics
+730	current oncology (toronto, ont.)
+731	integrative biology : quantitative biosciences from nano to macro
+732	epigenetics : official journal of the dna methylation society
+733	epigenetics & chromatin
+734	bmc research notes
+735	chemphyschem : a european journal of chemical physics and physical chemistry
+736	veterinary immunology and immunopathology
+737	journal of neuroimmune pharmacology : the official journal of the society on
+738	pathogenetics
+739	disease models & mechanisms
+740	future lipidology
+741	human genetics
+742	surgical oncology clinics of north america
+743	european journal of medicinal chemistry
+744	neurotoxicity research
+745	current protein & peptide science
+746	fibrogenesis & tissue repair
+747	international journal of clinical and experimental medicine
+748	acs nano
+749	central nervous system agents in medicinal chemistry
+750	advances in virus research
+751	journal of inherited metabolic disease
+752	biogerontology
+753	vascular pharmacology
+754	biochimie
+755	journal of viral hepatitis
+756	the open microbiology journal
+757	exercise and sport sciences reviews
+758	journal of neurogenetics
+759	genes & nutrition
+760	annals of botany
+761	journal of proteomics
+762	the journal of pain : official journal of the american pain society
+763	current opinion in gastroenterology
+764	neurochemical research
+765	international journal of molecular sciences
+766	molecular imaging
+767	pediatric research
+768	wound repair and regeneration : official publication of the wound healing society
+769	frontiers in computational neuroscience
+770	results and problems in cell differentiation
+771	bmc medical genomics
+772	the new phytologist
+773	journal of negative results in biomedicine
+774	neuro-oncology
+775	biology of the cell / under the auspices of the european cell biology
+776	proceedings of the japan academy. series b, physical and biological sciences
+777	journal of chemical theory and computation
+778	current topics in developmental biology
+779	combinatorial chemistry & high throughput screening
+780	nature reviews. drug discovery
+781	cancer metastasis reviews
+782	the journal of urology
+783	prion
+784	cortex; a journal devoted to the study of the nervous system and behavior
+785	journal of molecular graphics & modelling
+786	angiogenesis
+787	the arabidopsis book / american society of plant biologists
+788	frontiers in bioscience (landmark edition)
+789	progress in molecular and subcellular biology
+790	cytogenetic and genome research
+791	the journal of chemical physics
+792	critical reviews in eukaryotic gene expression
+793	physical biology
+794	the journals of gerontology. series a, biological sciences and medical sciences
+795	pacific symposium on biocomputing. pacific symposium on biocomputing
+796	immunogenetics
+797	british journal of anaesthesia
+798	glycobiology
+799	ieee transactions on neural systems and rehabilitation engineering : a
+800	brain & development
+801	endocrine-related cancer
+802	iubmb life
+803	international immunology
+804	hybridoma (2005)
+805	human gene therapy
+806	journal of biomedical science
+807	current hiv research
+808	nephron. physiology
+809	current opinion in lipidology
+810	molecules and cells
+811	bmc microbiology
+812	the american journal of clinical nutrition
+813	organogenesis
+814	future oncology (london, england)
+815	veterinary research
+816	journal of assisted reproduction and genetics
+817	neuropsychiatric disease and treatment
+818	international journal of medical sciences
+819	journal of neurovirology
+820	cancer microenvironment : official journal of the international cancer
+821	chromosome research : an international journal on the molecular, supramolecular
+822	regenerative medicine
+823	current opinion in hematology
+824	cancer chemotherapy and pharmacology
+825	critical care medicine
+826	environmental and molecular mutagenesis
+827	hematology/oncology clinics of north america
+828	small (weinheim an der bergstrasse, germany)
+829	journal of the peripheral nervous system : jpns
+830	journal of molecular medicine (berlin, germany)
+831	gut pathogens
+832	the journal of physiological sciences : jps
+833	cerebrovascular diseases (basel, switzerland)
+834	journal of biophotonics
+835	molecular pharmaceutics
+836	neuromuscular disorders : nmd
+837	mathematics and computers in simulation
+838	dna and cell biology
+839	ieee engineering in medicine and biology magazine : the quarterly magazine of the
+840	the journal of endocrinology
+841	zebrafish
+842	pmc biophysics
+843	science in china. series c, life sciences / chinese academy of sciences
+844	journal of visualized experiments : jove
+845	molecular interventions
+846	chembiochem : a european journal of chemical biology
+847	chemical senses
+848	brain research bulletin
+849	journal of bacteriology
+850	computational biology and chemistry
+851	the new england journal of medicine
+852	immunology and cell biology
+853	international journal of oncology
+854	cancer science
+855	heart failure reviews
+856	the open virology journal
+857	applied physiology, nutrition, and metabolism = physiologie appliquee, nutrition
+858	biofactors (oxford, england)
+859	aging
+860	blood reviews
+861	kidney international
+862	cancer informatics
+863	neuromolecular medicine
+864	cryobiology
+865	expert opinion on emerging drugs
+866	acta myologica : myopathies and cardiomyopathies : official journal of the
+867	molecular reproduction and development
+868	plos neglected tropical diseases
+869	european journal of anaesthesiology
+870	critical reviews in immunology
+871	plant molecular biology
+872	prostaglandins, leukotrienes, and essential fatty acids
+873	plant & cell physiology
+874	tissue engineering. part b, reviews
+875	physical chemistry chemical physics : pccp
+876	communicative & integrative biology
+877	current alzheimer research
+878	current molecular medicine
+879	psychoneuroendocrinology
+880	lymphatic research and biology
+881	plos medicine
+882	trials
+883	evidence-based complementary and alternative medicine : ecam
+884	reproduction (cambridge, england)
+885	journal of cancer research and clinical oncology
+886	embo molecular medicine
+887	molecular psychiatry
+888	international journal of plant genomics
+889	development genes and evolution
+890	neurotoxicology and teratology
+891	tissue antigens
+892	mitochondrion
+893	journal of molecular and genetic medicine : an international journal of
+894	neurogenetics
+895	microscopy research and technique
+896	journal of chemical biology
+897	network (bristol, england)
+898	hematological oncology
+899	asn neuro
+900	current opinion in neurology
+901	alimentary pharmacology & therapeutics
+902	nature reviews. neurology
+903	chemical research in toxicology
+904	expert review of molecular diagnostics
+905	clinical journal of the american society of nephrology : cjasn
+906	european journal of human genetics : ejhg
+907	frontiers in neuroanatomy
+908	nonlinear biomedical physics
+909	general physiology and biophysics
+910	bmc gastroenterology
+911	acta neuropathologica
+912	nitric oxide : biology and chemistry / official journal of the nitric oxide
+913	the journal of the acoustical society of america
+914	genetics in medicine : official journal of the american college of medical
+915	tumour biology : the journal of the international society for oncodevelopmental
+916	drug news & perspectives
+917	neurology
+918	the journal of nutrition
+919	oral diseases
+920	current opinion in otolaryngology & head and neck surgery
+921	behavioral neuroscience
+922	the journal of heredity
+923	experimental & molecular medicine
+924	ieee transactions on bio-medical engineering
+925	thrombosis and haemostasis
+926	biophysical reviews
+927	malaria journal
+928	bulletin of mathematical biology
+929	biological reviews of the cambridge philosophical society
+930	hepatology international
+931	german medical science : gms e-journal
+932	gms krankenhaushygiene interdisziplinar
+933	journal of innate immunity
+934	cold spring harbor perspectives in biology
+935	expert review of anti-infective therapy
+936	translational oncology
+937	cytoskeleton (hoboken, n.j.)
+938	recent patents on cns drug discovery
+939	biologics : targets & therapy
+940	journal of translational medicine
+941	veterinary microbiology
+942	haematologica
+943	transplantation proceedings
+944	neurorehabilitation and neural repair
+945	gene therapy
+946	expert opinion on biological therapy
+947	drug discovery today
+948	current opinion in drug discovery & development
+949	genes, brain, and behavior
+950	expert opinion on drug discovery
+951	advances in physiology education
+952	oxidative medicine and cellular longevity
+953	reviews in medical virology
+954	circulation. arrhythmia and electrophysiology
+955	evolution & development
+956	neirofiziologiia = neurophysiology
+957	targeted oncology
+958	european journal of oral sciences
+959	human reproduction update
+960	der anaesthesist
+961	journal of vision
+962	gene regulation and systems biology
+963	translational research : the journal of laboratory and clinical medicine
+964	hpb : the official journal of the international hepato pancreato biliary
+965	transactions of the american clinical and climatological association
+966	cancer research and treatment : official journal of korean cancer association
+967	future cardiology
+968	seminars in pediatric neurology
+969	trends in immunology
+970	molecules (basel, switzerland)
+971	digestive diseases (basel, switzerland)
+972	perspectives in medicinal chemistry
+973	chaos (woodbury, n.y.)
+974	physical review letters
+975	clinical genetics
+976	comparative medicine
+977	pacing and clinical electrophysiology : pace
+978	phytochemistry
+979	brain stimulation
+980	thescientificworldjournal
+981	genome medicine
+982	journal of biomechanics
+983	health education & behavior : the official publication of the society for public
+984	current stem cell research & therapy
+985	international reviews of immunology
+986	copd
+987	antiviral therapy
+988	the journal of allergy and clinical immunology
+989	clinical medicine. oncology
+990	journal of environmental pathology, toxicology and oncology : official organ of
+991	mrs bulletin / materials research society
+992	alzheimer's research & therapy
+993	immunology, endocrine & metabolic agents in medicinal chemistry
+994	minerva gastroenterologica e dietologica
+995	journal of comparative physiology. a, neuroethology, sensory, neural, and
+996	briefings in functional genomics & proteomics
+997	nature materials
+998	molecular genetics and genomics : mgg
+999	pigment cell & melanoma research
+1000	molecular plant pathology
+1001	stem cell research
+1002	minerva chirurgica
+1003	genes and immunity
+1004	advances in virology
+1005	journal of andrology
+1006	frontiers in human neuroscience
+1007	the international journal of developmental biology
+1008	liver transplantation : official publication of the american association for the
+1009	amino acids
+1010	journal of clinical oncology : official journal of the american society of
+1011	the korean journal of physiology & pharmacology : official journal of the korean
+1012	the open neuroscience journal
+1013	virologica sinica
+1014	current hypertension reports
+1015	modern pathology : an official journal of the united states and canadian academy
+1016	biochemistry and cell biology = biochimie et biologie cellulaire
+1017	radiation oncology (london, england)
+1018	current opinion in cardiology
+1019	eplasty
+1020	cellular and molecular bioengineering
+1021	current opinion in pediatrics
+1022	biotechnology journal
+1023	circulation. heart failure
+1024	gerontology
+1025	journal of cognitive neuroscience
+1026	human brain mapping
+1027	ophthalmic genetics
+1028	oligonucleotides
+1029	clinics in geriatric medicine
+1030	korean circulation journal
+1031	briefings in functional genomics
+1032	viruses
+1033	clinical chemistry
+1034	acta crystallographica. section d, biological crystallography
+1035	journal of neurodevelopmental disorders
+1036	current opinion in allergy and clinical immunology
+1037	autoimmunity
+1038	expert opinion on investigational drugs
+1039	addiction biology
+1040	briefings in bioinformatics
+1041	islets
+1042	drugs of today (barcelona, spain : 1998)
+1043	journal of ovarian research
+1044	health research policy and systems / biomed central
+1045	current molecular pharmacology
+1046	cancer treatment reviews
+1047	natural product reports
+1048	journal of pineal research
+1049	pharmacological research : the official journal of the italian pharmacological
+1050	molecular and biochemical parasitology
+1051	brain, behavior and evolution
+1052	anticancer research
+1053	biomedical microdevices
+1054	journal of neuroinflammation
+1055	frontiers in bioscience (elite edition)
+1056	microbial cell factories
+1057	phytotherapy research : ptr
+1058	current genetics
+1059	journal of controlled release : official journal of the controlled release
+1060	biomacromolecules
+1061	nature reviews. rheumatology
+1062	psychiatry investigation
+1063	journal of diabetes science and technology
+1064	mammalian genome : official journal of the international mammalian genome society
+1065	journal of oncology
+1066	optics express
+1067	antiviral chemistry & chemotherapy
+1068	prostate cancer and prostatic diseases
+1069	ergonomics
+1070	biology letters
+1071	current opinion in molecular therapeutics
+1072	annual review of pathology
+1073	interdisciplinary sciences, computational life sciences
+1074	journal of clinical neurophysiology : official publication of the american
+1075	journal of genetics
+1076	protoplasma
+1077	cardiovascular pathology : the official journal of the society for cardiovascular
+1078	genome dynamics and stability
+1079	the mount sinai journal of medicine, new york
+1080	dalton transactions (cambridge, england : 2003)
+1081	journal of hepatology
+1082	journal of nanoneuroscience
+1083	immune network
+1084	journal of biophysics (hindawi publishing corporation : online)
+1085	neuroscience and biobehavioral reviews
+1086	biology of blood and marrow transplantation : journal of the american society for
+1087	european heart journal
+1088	database : the journal of biological databases and curation
+1089	cellular & molecular immunology
+1090	tissue engineering. part c, methods
+1091	genome biology and evolution
+1092	acta histochemica
+1093	nephrology, dialysis, transplantation : official publication of the european
+1094	cell death & disease
+1095	journal of toxicology
+1096	clinical and experimental gastroenterology
+1097	journal of hematology & oncology
+1098	pediatric cardiology
+1099	planta
+1100	optometry and vision science : official publication of the american academy of
+1101	international journal of cell biology
+1102	substance abuse : research and treatment
+1103	journal of proteomics & bioinformatics
+1104	stem cell reviews
+1105	bone
+1106	current opinion in endocrinology, diabetes, and obesity
+1107	journal of angiogenesis research
+1108	cell health and cytoskeleton
+1109	neuro-degenerative diseases
+1110	biochemical engineering journal
+1111	nano today
+1112	journal of the american society of hypertension : jash
+1113	f1000 biology reports
+1114	future medicinal chemistry
+1115	virus genes
+1116	journal of alzheimer's disease : jad
+1117	medicine and science in sports and exercise
+1118	mutagenesis
+1119	interdisciplinary perspectives on infectious diseases
+1120	nutrition & metabolism
+1121	nature reviews. cardiology
+1122	bmc clinical pathology
+1123	american journal of translational research
+1124	reviews in endocrine & metabolic disorders
+1125	american journal of medical genetics. part a
+1126	acta biomaterialia
+1127	journal of clinical immunology
+1128	pediatric nephrology (berlin, germany)
+1129	annual review of plant biology
+1130	nucleus (austin, tex.)
+1131	otology & neurotology : official publication of the american otological society,
+1132	neuropathology and applied neurobiology
+1133	toxicology letters
+1134	drugs & aging
+1135	journal of neuroendocrinology
+1136	dna research : an international journal for rapid publication of reports on genes
+1137	tissue engineering. part a
+1138	advances in chronic kidney disease
+1139	journal of clinical pharmacology
+1140	journal of cardiovascular translational research
+1141	mobile dna
+1142	silence
+1143	panminerva medica
+1144	physica a
+1145	japanese journal of applied physics (2008)
+1146	journal of biomolecular structure & dynamics
+1147	assay and drug development technologies
+1148	bmc pregnancy and childbirth
+1149	molecular breeding : new strategies in plant improvement
+1150	drug resistance updates : reviews and commentaries in antimicrobial and
+1151	acs chemical neuroscience
+1152	molecular and cellular pharmacology
+1153	expert opinion on therapeutic patents
+1154	nonlinearity
+1155	biological trace element research
+1156	genetica
+1157	faraday discussions
+1158	aids research and therapy
+1159	american journal of infectious diseases
+1160	analytical and bioanalytical chemistry
+1161	neuroinformatics
+1162	cns neuroscience & therapeutics
+1163	progress in molecular biology and translational science
+1164	science translational medicine
+1165	journal of immunotherapy (hagerstown, md. : 1997)
+1166	marine drugs
+1167	current gerontology and geriatrics research
+1168	clinical interventions in aging
+1169	applied microbiology and biotechnology
+1170	the journal of steroid biochemistry and molecular biology
+1171	physiological research / academia scientiarum bohemoslovaca
+1172	biomarkers in medicine
+1173	nature communications
+1174	international journal of physiology, pathophysiology and pharmacology
+1175	brain, behavior, and immunity
+1176	seminars in reproductive medicine
+1177	harvard review of psychiatry
+1178	archives of drug information
+1179	neurourology and urodynamics
+1180	current cardiology reviews
+1181	veterinary pathology
+1182	clinical and translational science
+1183	plant, cell & environment
+1184	wiley interdisciplinary reviews. systems biology and medicine
+1185	molecular human reproduction
+1186	journal of physics. condensed matter : an institute of physics journal
+1187	current infectious disease reports
+1188	clinical ophthalmology (auckland, n.z.)
+1189	proceedings of the ieee. institute of electrical and electronics engineers
+1190	current eye research
+1191	cancer epidemiology
+1192	current immunology reviews
+1193	journal of general internal medicine
+1194	annals of family medicine
+1195	epigenomics
+1196	annual review of microbiology
+1197	chemical biology & drug design
+1198	medical & biological engineering & computing
+1199	gynecologic oncology
+1200	metabolism: clinical and experimental
+1201	the cleft palate-craniofacial journal : official publication of the american
+1202	journal of cancer science & therapy
+1203	drugs in r&d
+1204	human genomics
+1205	clinics in laboratory medicine
+1206	discovery medicine
+1207	angewandte chemie (international ed. in english)
+1208	chest
+1209	mycologia
+1210	allergy, asthma, and clinical immunology : official journal of the canadian
+1211	journal of molecular structure
+1212	free radical research
+1213	age (dordrecht, netherlands)
+1214	disease markers
+1215	seminars in immunology
+1216	life sciences
+1217	trends in parasitology
+1218	human reproduction (oxford, england)
+1219	bioanalysis
+1220	birth defects research. part a, clinical and molecular teratology
+1221	bio systems
+1222	neuroendocrinology
+1223	frontiers in aging neuroscience
+1224	expert review of anticancer therapy
+1225	current pharmaceutical biotechnology
+1226	developmental and comparative immunology
+1227	trends in cognitive sciences
+1228	canadian journal of physiology and pharmacology
+1229	current psychiatry reports
+1230	wiley interdisciplinary reviews. rna
+1231	current opinion in biotechnology
+1232	the pediatric infectious disease journal
+1233	diagnostic pathology
+1234	clinical medicine insights. oncology
+1235	transplantation
+1236	molecular biology reports
+1237	physics of life reviews
+1238	cellscience
+1239	the journal of molecular diagnostics : jmd
+1240	sensors (basel, switzerland)
+1241	dermatology research and practice
+1242	seminars in immunopathology
+1243	journal of occupational medicine and toxicology (london, england)
+1244	neuropsychologia
+1245	microbial pathogenesis
+1246	chemical society reviews
+1247	the journal of pharmacy and pharmacology
+1248	frontiers in neuroendocrinology
+1249	current opinion in infectious diseases
+1250	clinics (sao paulo, brazil)
+1251	frontiers in neuroenergetics
+1252	oncotargets and therapy
+1253	international journal of environmental research and public health
+1254	lipid insights
+1255	advances in protein chemistry and structural biology
+1256	drug discovery today. therapeutic strategies
+1257	pesticide biochemistry and physiology
+1258	journal of biomolecular screening
+1259	journal of rnai and gene silencing : an international journal of rna and gene
+1260	trends in biotechnology
+1261	international journal of radiation oncology, biology, physics
+1262	american journal of transplantation : official journal of the american society of
+1263	nanoscale
+1264	experimental & translational stroke medicine
+1265	oncotarget
+1266	pharmaceuticals (basel, switzerland)
+1267	retrovirology : research and treatment
+1268	transfusion clinique et biologique : journal de la societe francaise de
+1269	asian journal of andrology
+1270	international journal of clinical and experimental pathology
+1271	inorganic chemistry
+1272	toxins
+1273	expert review of cardiovascular therapy
+1274	international journal of clinical rheumatology
+1275	genome integrity
+1276	journal of neurogastroenterology and motility
+1277	annual review of phytopathology
+1278	journal of computational physics
+1279	pharmacology
+1280	acta pharmacologica sinica
+1281	cancer epidemiology, biomarkers & prevention : a publication of the american
+1282	journal of acquired immune deficiency syndromes (1999)
+1283	molecular & cellular biomechanics : mcb
+1284	advances in botanical research
+1285	aaohn journal : official journal of the american association of occupational
+1286	journal of inflammation (london, england)
+1287	veterinary medicine international
+1288	biodata mining
+1289	infection, genetics and evolution : journal of molecular epidemiology and
+1290	international journal of psychophysiology : official journal of the international
+1291	current cancer drug targets
+1292	idrugs : the investigational drugs journal
+1293	alcohol research & health : the journal of the national institute on alcohol
+1294	expert review of endocrinology & metabolism
+1295	genes & cancer
+1296	journal of nucleic acids
+1297	international journal of alzheimer's disease
+1298	physiology and molecular biology of plants : an international journal of
+1299	mathematical and computer modelling
+1300	journal of carcinogenesis
+1301	cold spring harbor protocols
+1302	fems yeast research
+1303	international review of neurobiology
+1304	obstetrics and gynecology international
+1305	gastroenterology research and practice
+1306	hormones and behavior
+1307	the laryngoscope
+1308	parasitology
+1309	seminars in radiation oncology
+1310	journal of receptor and signal transduction research
+1311	journal of the american college of cardiology
+1312	mbio
+1313	journal of cancer
+1314	journal of molecular cell biology
+1315	omics : a journal of integrative biology
+1316	insect biochemistry and molecular biology
+1317	the review of scientific instruments
+1318	operative techniques in orthopaedics
+1319	current protocols in molecular biology / edited by frederick m. ausubel ... [et
+1320	toxicology
+1321	advances in genetics
+1322	expert review of respiratory medicine
+1323	journal of chemical ecology
+1324	advances in pharmacology (san diego, calif.)
+1325	immunology letters
+1326	journal of animal science
+1327	translational oncogenomics
+1328	annals of oncology : official journal of the european society for medical
+1329	international journal of hypertension
+1330	journal of osteoporosis
+1331	plant biotechnology journal
+1332	reproductive toxicology (elmsford, n.y.)
+1333	stem cell research & therapy
+1334	reproductive sciences (thousand oaks, calif.)
+1335	plant cell reports
+1336	archives of toxicology
+1337	chronobiology international
+1338	journal of synchrotron radiation
+1339	the european physical journal. special topics
+1340	gut microbes
+1341	bioinformatics and biology insights
+1342	diabetes, obesity & metabolism
+1343	immunology and allergy clinics of north america
+1344	advances in enzyme regulation
+1345	protist
+1346	bipolar disorders
+1347	sarcoma
+1348	parkinson's disease
+1349	stroke research and treatment
+1350	biological psychiatry
+1351	urologic oncology
+1352	immunome research
+1353	xenobiotica; the fate of foreign compounds in biological systems
+1354	american journal of cancer research
+1355	the european respiratory journal
+1356	nephron. experimental nephrology
+1357	frontiers in physiology
+1358	current opinion in clinical nutrition and metabolic care
+1359	plant science : an international journal of experimental plant biology
+1360	brain topography
+1361	italian journal of pediatrics
+1362	new journal of physics
+1363	medical care
+1364	biomarker insights
+1365	parasites & vectors
+1366	biotechniques
+1367	seminars in thoracic and cardiovascular surgery
+1368	frontiers in synaptic neuroscience
+1369	vitamins and hormones
+1370	mabs
+1371	journal of thoracic oncology : official publication of the international
+1372	nature reviews. gastroenterology & hepatology
+1373	small gtpases
+1374	mathematical medicine and biology : a journal of the ima
+1375	expert review of gastroenterology & hepatology
+1376	food and chemical toxicology : an international journal published for the british
+1377	therapeutic delivery
+1378	protein & cell
+1379	drug discovery today. disease mechanisms
+1380	the protein journal
+1381	british journal of haematology
+1382	american journal of reproductive immunology (new york, n.y. : 1989)
+1383	clinical and experimental allergy : journal of the british society for allergy
+1384	respirology (carlton, vic.)
+1385	the pezcoller foundation journal : news from the pezcoller foundation world
+1386	critical reviews in biomedical engineering
+1387	the journal of physical chemistry. c, nanomaterials and interfaces
+1388	progress in drug research. fortschritte der arzneimittelforschung. progres des
+1389	lancet neurology
+1390	circulation. cardiovascular genetics
+1391	cancer prevention research (philadelphia, pa.)
+1392	archives of neurology
+1393	current breast cancer reports
+1394	the open pain journal
+1395	transcription
+1396	hepatitis research and treatment
+1397	biochemistry research international
+1398	immunity & ageing : i & a
+1399	current opinion in anaesthesiology
+1400	international journal of hepatology
+1401	world journal of cardiology
+1402	world journal of gastrointestinal oncology
+1403	world journal of gastrointestinal surgery
+1404	current hiv/aids reports
+1405	stem cells and cloning : advances and applications
+1406	human immunology
+1407	virulence
+1408	frontiers in neurology
+1409	canadian journal of anaesthesia = journal canadien d'anesthesie
+1410	international journal of mental health systems
+1411	breast cancer : targets and therapy
+1412	therapeutic advances in gastroenterology
+1413	experimental and clinical psychopharmacology
+1414	cancer management and research
+1415	autoimmune diseases
+1416	international journal of inflammation
+1417	anatomy & cell biology
+1418	chinese journal of cancer
+1419	frontiers in bioscience (scholar edition)
+1420	journal of gastroenterology and hepatology
+1421	journal of drug delivery science and technology
+1422	placenta
+1423	pulmonary circulation
+1424	world journal of surgery
+1425	source code for biology and medicine
+1426	functional neurology
+1427	journal of aging research
+1428	journal of skin cancer
+1429	clinical & developmental immunology
+1430	orphanet journal of rare diseases
+1431	drug discovery today. technologies
+1432	health
+1433	molecular autism
+1434	journal of tissue engineering
+1435	cardiovascular diabetology
+1436	medical mycology : official publication of the international society for human
+1437	microbial biotechnology
+1438	evodevo
+1439	journal of the international aids society
+1440	biomedical optics express
+1441	current pharmacogenomics and personalized medicine
+1442	hormone molecular biology and clinical investigation
+1443	clinical epigenetics
+1444	journal of signal transduction
+1445	journal of cardiovascular disease research
+1446	drug design, development and therapy
+1447	international journal of radiation biology
+1448	medical science monitor : international medical journal of experimental and
+1449	international journal of hematology
+1450	pancreas
+1451	journal of morphology
+1452	american journal of obstetrics and gynecology
+1453	proceedings of the institution of mechanical engineers. part h, journal of
+1454	the journal of nutritional biochemistry
+1455	cancers
+1456	journal of the neurological sciences
+1457	frontiers in psychiatry
+1458	nanomedicine : nanotechnology, biology, and medicine
+1459	accounts of chemical research
+1460	human pathology
+1461	journal of obesity
+1462	behavior genetics
+1463	hepatic medicine : evidence and research
+1464	the journal of eukaryotic microbiology
+1465	frontiers in microbiology
+1466	journal of insect physiology
+1467	journal of gastrointestinal cancer
+1468	seminars in liver disease
+1469	annals of medicine
+1470	infectious disorders drug targets
+1471	developmental neuroscience
+1472	fluids and barriers of the cns
+1473	hormones & cancer
+1474	cardiovascular psychiatry and neurology
+1475	journal of reproductive immunology
+1476	biomechanics and modeling in mechanobiology
+1477	annals of indian academy of neurology
+1478	journal of neuro-oncology
+1479	toxicologic pathology
+1480	medecine sciences : m/s
+1481	health affairs (project hope)
+1482	wiley interdisciplinary reviews. nanomedicine and nanobiotechnology
+1483	the journal of physical chemistry. a
+1484	journal of biotechnology
+1485	personalized medicine
+1486	current protocols in nucleic acid chemistry / edited by serge l. beaucage ... [et
+1487	pathology research international
+1488	mediterranean journal of hematology and infectious diseases
+1489	nanomedicine (london, england)
+1490	revue neurologique
+1491	journal of vestibular research : equilibrium & orientation
+1492	self/nonself
+1493	current osteoporosis reports
+1494	mini reviews in medicinal chemistry
+1495	herpesviridae
+1496	marine genomics
+1497	journal of pharmacy & bioallied sciences
+1498	seminars in hematology
+1499	gastroenterology & hepatology
+1500	american journal of medical genetics. part b, neuropsychiatric genetics : the
+1501	journal of chemical information and modeling
+1502	advances in dental research
+1503	experimental and therapeutic medicine
+1504	current aging science
+1505	european journal of nuclear medicine and molecular imaging
+1506	acs applied materials & interfaces
+1507	nutrition (burbank, los angeles county, calif.)
+1508	depression and anxiety
+1509	bioorganic & medicinal chemistry
+1510	annals of anatomy = anatomischer anzeiger : official organ of the anatomische
+1511	enzyme research
+1512	advances in hematology
+1513	journal of neurology
+1514	leukemia
+1515	electrolyte & blood pressure : e & bp
+1516	clinical and vaccine immunology : cvi
+1517	gastrointestinal cancer research : gcr
+1518	journal of the american society for mass spectrometry
+1519	thyroid : official journal of the american thyroid association
+1520	molecular cytogenetics
+1521	clinical reviews in bone and mineral metabolism
+1522	drug development research
+1523	european journal of pain (london, england)
+1524	journal of lipids
+1525	toxicology mechanisms and methods
+1526	genetic vaccines and therapy
+1527	best practice & research. clinical gastroenterology
+1528	seminars in respiratory and critical care medicine
+1529	the libyan journal of medicine
+1530	human vaccines
+1531	journal of chemical neuroanatomy
+1532	international journal of mass spectrometry
+1533	molecular nutrition & food research
+1534	journal of insect science (online)
+1535	jama : the journal of the american medical association
+1536	biomicrofluidics
+1537	fungal biology reviews
+1538	journal of the mechanics and physics of solids
+1539	aging and disease
+1540	vascular cell
+1541	the canadian journal of chemical engineering
+1542	current opinion in pulmonary medicine
+1543	world journal of biological chemistry
+1544	international journal of molecular epidemiology and genetics
+1545	transgenic research
+1546	movement disorders : official journal of the movement disorder society
+1547	bioinformation
+1548	journal of venom research
+1549	theranostics
+1550	human movement science
+1551	annual review of nutrition
+1552	soft matter
+1553	topics in current genetics
+1554	expert opinion on drug metabolism & toxicology
+1555	cardiology research and practice
+1556	eurasip journal on bioinformatics & systems biology
+1557	materials research society symposia proceedings. materials research society
+1558	journal of plant research
+1559	clinical and experimental medicine
+1560	expert review of dermatology
+1561	cardiac electrophysiology clinics
+1562	open access bioinformatics
+1563	schizophrenia research
+1564	cancer biomarkers : section a of disease markers
+1565	european archives of oto-rhino-laryngology : official journal of the european
+1566	development, growth & differentiation
+1567	acta crystallographica. section e, structure reports online
+1568	research in pharmaceutical sciences
+1569	tag. theoretical and applied genetics. theoretische und angewandte genetik
+1570	clinical lipidology
+1571	journal of pediatric gastroenterology and nutrition
+1572	bmc biophysics
+1573	environmental health : a global access science source
+1574	theriogenology
+1575	neurology research international
+1576	breast cancer : basic and clinical research
+1577	world journal of clinical oncology
+1578	gene therapy and regulation
+1579	world journal of stem cells
+1580	world journal of gastrointestinal pathophysiology
+1581	inflammation
+1582	journal of laboratory automation
+1583	the american journal of the medical sciences
+1584	research in microbiology
+1585	therapy
+1586	the analyst
+1587	rejuvenation research
+1588	bioengineered bugs
+1589	genetics and molecular biology
+1590	cell & bioscience
+1591	journal of statistical physics
+1592	north american journal of medicine & science
+1593	international journal of biochemistry and molecular biology
+1594	journal of molecular evolution
+1595	nature reviews. clinical oncology
+1596	experimental lung research
+1597	f1000 medicine reports
+1598	familial cancer
+1599	pulmonary medicine
+1600	international journal of nephrology
+1601	journal of biological inorganic chemistry : jbic : a publication of the society
+1602	biotechnology letters
+1603	animal reproduction / colegio brasileiro de reproducao animal
+1604	virchows archiv : an international journal of pathology
+1605	bmc urology
+1606	heredity
+1607	developmental psychobiology
+1608	forum on immunopathological diseases and therapeutics
+1609	expert review of clinical pharmacology
+1610	cellular logistics
+1611	frontiers in psychology
+1612	frontiers in pharmacology
+1613	clinical pharmacology : advances and applications
+1614	research and reports in biology
+1615	infection and drug resistance
+1616	international journal of nephrology and renovascular disease
+1617	international journal of andrology
+1618	journal of applied genetics
+1619	european journal of cancer prevention : the official journal of the european
+1620	bmc psychiatry
+1621	spermatogenesis
+1622	experimental diabetes research
+1623	journal of microbiology (seoul, korea)
+1624	journal of nippon medical school = nippon ika daigaku zasshi
+1625	bmj case reports
+1626	radiotherapy and oncology : journal of the european society for therapeutic
+1627	oncology reports
+1628	current drug discovery technologies
+1629	therapeutic advances in urology
+1630	oral oncology
+1631	cancer genomics & proteomics
+1632	journal of the american board of family medicine : jabfm
+1633	zhong nan da xue xue bao. yi xue ban = journal of central south university.
+1634	functional plant biology : fpb
+1635	therapeutic advances in chronic disease
+1636	international journal of vascular medicine
+1637	mass spectrometry reviews
+1638	journal of thyroid research
+1639	journal of mechanics of materials and structures
+1640	translational neuroscience
+1641	bmc medical genetics
+1642	stem cells international
+1643	journal of medicine and life
+1644	oncology reviews
+1645	breast disease
+1646	biomolecular concepts
+1647	molecular biology international
+1648	genes
+1649	advances in urology
+1650	bioarchitecture
+1651	science china. life sciences
+1652	therapeutic advances in medical oncology
+1653	frontiers in zoology
+1654	the open neuroimaging journal
+1655	nanoscale research letters
+1656	biopharmaceutics & drug disposition
+1657	skeletal muscle
+1658	aids reviews
+1659	australian journal of chemistry
+1660	medicinal chemistry (shariqah (united arab emirates))
+1661	current opinion in virology
+1662	biotechnology and bioengineering
+1663	nature reviews. urology
+1664	population health metrics
+1665	journal of cardiovascular pharmacology and therapeutics
+1666	frontiers in biology
+1667	inflammation & allergy drug targets
+1668	thyroid research
+1669	american journal of nuclear medicine and molecular imaging
+1670	advanced materials (deerfield beach, fla.)
+1671	seminars in diagnostic pathology
+1672	journal of electron microscopy
+1673	frontiers in neuroinformatics
+1674	translational psychiatry
+1675	chinese medicine
+1676	chemistry central journal
+1677	the journal of clinical endocrinology and metabolism
+1678	cancer genetics
+1679	journal of transplantation
+1680	current topics in behavioral neurosciences
+1681	surgery
+1682	the journal of headache and pain
+1683	journal of computational biology : a journal of computational molecular cell
+1684	acta ophthalmologica
+1685	journal of clinical bioinformatics
+1686	advances in parasitology
+1687	current cancer therapy reviews
+1688	rheumatology (oxford, england)
+1689	nature nanotechnology
+1690	the open orthopaedics journal
+1691	drug target insights
+1692	international journal of evolutionary biology
+1693	yeast (chichester, england)
+1694	general and comparative endocrinology
+1695	cancer discovery
+1696	journal of allergy
+1697	pediatric rheumatology online journal
+1698	plos currents
+1699	journal of intellectual disability research : jidr
+1700	basic & clinical pharmacology & toxicology
+1701	advances and applications in bioinformatics and chemistry : aabc
+1702	journal of biological rhythms
+1703	world journal of urology
+1704	bmc public health
+1705	clinical proteomics
+1706	indian journal of pathology & microbiology
+1707	journal of electrocardiology
+1708	expert review of hematology
+1709	neurosurgery clinics of north america
+1710	annual review of medicine
+1711	annals of intensive care
+1712	scientific reports
+1713	american journal of cardiovascular disease
+1714	current chemical biology
+1715	prostate cancer
+1716	cancer journal (sudbury, mass.)
+1717	vector borne and zoonotic diseases (larchmont, n.y.)
+1718	the open drug discovery journal
+1719	high altitude medicine & biology
+1720	translational stroke research
+1721	current chemical genomics
+1722	journal of toxicology and environmental health. part a
+1723	journal of nutrition and metabolism
+1724	magnesium research : official organ of the international society for the
+1725	comparative biochemistry and physiology. part b, biochemistry & molecular biology
+1726	digestive diseases and sciences
+1727	acs medicinal chemistry letters
+1728	the american journal of surgical pathology
+1729	parasite immunology
+1730	immunotherapy
+1731	calcified tissue international
+1732	neural systems & circuits
+1733	world journal of diabetes
+1734	leukemia research
+1735	mobile genetic elements
+1736	nature chemistry
+1737	bmb reports
+1738	journal of immunological methods
+1739	journal of psychiatric research
+1740	advances in nutrition (bethesda, md.)
+1741	bone marrow research
+1742	clinics in chest medicine
+1743	mycology
+1744	biosecurity and bioterrorism : biodefense strategy, practice, and science
+1745	artificial dna, pna & xna
+1746	gene expression patterns : gep
+1747	alcohol and alcoholism (oxford, oxfordshire)
+1748	current opinion in solid state & materials science
+1749	seminars in oncology
+1750	international journal of proteomics
+1751	biology of sex differences
+1752	wei sheng wu yu gan ran
+1753	isrn oncology
+1754	journal of inflammation research
+1755	hiv/aids (auckland, n.z.)
+1756	the journal of surgical research
+1757	journal of the american medical informatics association : jamia
+1758	journal of computational chemistry
+1759	journal of neurology & neurophysiology
+1760	comparative hepatology
+1761	journal of community genetics
+1762	experimental neurobiology
+1763	advances in pharmacological sciences
+1764	dermato-endocrinology
+1765	nano reviews
+1766	pain research and treatment
+1767	isrn hematology
+1768	upsala journal of medical sciences
+1769	frontiers in genetics
+1770	plant biology (stuttgart, germany)
+1771	international journal of microbiology
+1772	international journal of otolaryngology
+1773	international journal of gynecological pathology : official journal of the
+1774	frontiers in plant science
+1775	restorative neurology and neuroscience
+1776	best practice & research. clinical haematology
+1777	the hugo journal
+1778	journal of ophthalmology
+1779	liver international : official journal of the international association for the
+1780	scoliosis
+1781	amb express
+1782	the clinical biochemist. reviews / australian association of clinical biochemists
+1783	nutrition and cancer
+1784	critical reviews in oncogenesis
+1785	neuropathology : official journal of the japanese society of neuropathology
+1786	biotechnology for biofuels
+1787	new biotechnology
+1788	health education research
+1789	computational and mathematical methods in medicine
+1790	applied physics letters
+1791	european journal of lipid science and technology : ejlst
+1792	lymphology
+1793	siam journal on applied mathematics
+1794	osteoarthritis and cartilage / oars, osteoarthritis research society
+1795	canadian journal of gastroenterology = journal canadien de gastroenterologie
+1796	critical reviews in oncology/hematology
+1797	preventive medicine
+1798	current trends in neurology
+1799	archives of physiology and biochemistry
+1800	annals of human genetics
+1801	interface focus
+1802	molecular syndromology
+1803	international journal of endocrinology
+1804	european journal of histochemistry : ejh
+1805	documenta ophthalmologica. advances in ophthalmology
+1806	pharmaceutical medicine
+1807	romanian journal of morphology and embryology = revue roumaine de morphologie et
+1808	frontiers in cellular and infection microbiology
+1809	journal of applied physics
+1810	journal of vascular surgery
+1811	proteomics. clinical applications
+1812	ejnmmi research
+1813	the american journal of cardiology
+1814	ieee transactions on biomedical circuits and systems
+1815	head and neck pathology
+1816	physical therapy
+1817	cold spring harbor perspectives in medicine
+1818	experimental dermatology
+1819	laboratory animal research
+1820	bioelectromagnetics
+1821	mucosal immunology
+1822	the journal of school health
+1823	transfusion
+1824	physical medicine and rehabilitation clinics of north america
+1825	journal of clinical biochemistry and nutrition
+1826	journal of molecular microbiology and biotechnology
+1827	the pharmacogenomics journal
+1828	journal of integrative plant biology
+1829	american journal of medical genetics. part c, seminars in medical genetics
+1830	international journal of epidemiology
+1831	nutrients
+1832	isrn neurology
+1833	journal of pathogens
+1834	the korean journal of hematology
+1835	international neurourology journal
+1836	current opinion in ophthalmology
+1837	journal of thoracic disease
+1838	seminars in neurology
+1839	g3 (bethesda, md.)
+1840	pharmaceutics
+1841	frontiers in oncology
+1842	gene expression
+1843	ieee reviews in biomedical engineering
+1844	journal of parkinson's disease
+1845	journal of mathematical neuroscience
+1846	nucleic acid therapeutics
+1847	biostatistics (oxford, england)
+1848	drugs of the future
+1849	journal of tropical medicine
+1850	nature reviews. endocrinology
+1851	the journal of antimicrobial chemotherapy
+1852	international journal of breast cancer
+1853	journal of nanobiotechnology
+1854	animal behaviour
+1855	journal of agricultural and food chemistry
+1856	emerging infectious diseases
+1857	current protocols in microbiology
+1858	molecular medicine reports
+1859	current signal transduction therapy
+1860	the indian journal of medical research
+1861	journal of amino acids
+1862	chemotherapy research and practice
+1863	european archives of psychiatry and clinical neuroscience
+1864	frontiers in immunology
+1865	ocular immunology and inflammation
+1866	world journal of radiology
+1867	international journal for numerical methods in biomedical engineering
+1868	journal of applied toxicology : jat
+1869	the journal of craniofacial surgery
+1870	growth factors (chur, switzerland)
+1871	middle east african journal of ophthalmology
+1872	cell reports
+1873	cell biology international reports
+1874	journal of nutrigenetics and nutrigenomics
+1875	genetics research international
+1876	current gastroenterology reports
+1877	isrn dermatology
+1878	qjm : monthly journal of the association of physicians
+1879	seminars in cardiothoracic and vascular anesthesia
+1880	journal of oral microbiology
+1881	membranes
+1882	microbiologyopen
+1883	clinical investigation
+1884	clinical and experimental reproductive medicine
+1885	current atherosclerosis reports
+1886	archives of general psychiatry
+1887	vascular health and risk management
+1888	comparative and functional genomics
+1889	minerva urologica e nefrologica = the italian journal of urology and nephrology
+1890	bmj open
+1891	clinical and translational allergy
+1892	current rheumatology reports
+1893	nmr in biomedicine
+1894	dose-response : a publication of international hormesis society
+1895	human gene therapy methods
+1896	journal of microscopy
+1897	american journal of blood research
+1898	frontiers in endocrinology
+1899	european journal of clinical investigation
+1900	nuclear receptor signaling
+1901	surgical neurology international
+1902	microscopy and analysis (americas ed.)
+1903	journal of cachexia, sarcopenia and muscle
+1904	current allergy and asthma reports
+1905	journal of biomedical science and engineering
+1906	american journal of hematology
+1907	biology open
+1908	pediatric obesity
+1909	neuroscience bulletin
+1910	current hematologic malignancy reports
+1911	child development
+1912	current protocols in human genetics / editorial board, jonathan l. haines ... [et
+1913	in silico biology
+1914	aob plants
+1915	aip advances
+1916	cancer biotherapy & radiopharmaceuticals
+1917	nutrition journal
+1918	chemical physics letters
+1919	the open neurology journal
+1920	advances in anatomic pathology
+1921	statistical applications in genetics and molecular biology
+1922	international journal of peptides
+1923	journal of smooth muscle research = nihon heikatsukin gakkai kikanshi
+1924	current obstetrics and gynecology reports
+1925	open biology
+1926	innate immunity
+1927	in vivo (athens, greece)
+1928	the journal of physical chemistry letters
+1929	isrn pharmacology
+1930	recent results in cancer research. fortschritte der krebsforschung. progres dans
+1931	frontiers of medicine
+1932	chemmedchem
+1933	acs synthetic biology
+1934	behavioral and brain functions : bbf
+1935	journal of parasitology research
+1936	particle and fibre toxicology
+1937	journal of gastrointestinal surgery : official journal of the society for surgery
+1938	swiss medical weekly
+1939	international journal of ophthalmology
+1940	indian pacing and electrophysiology journal
+1941	gms current topics in otorhinolaryngology, head and neck surgery
+1942	iranian biomedical journal
+1943	diabetes, metabolic syndrome and obesity : targets and therapy
+1944	gut and liver
+1945	chonnam medical journal
+1946	the international journal of neuropsychopharmacology / official scientific
+1947	international journal of surgical oncology
+1948	communications in computational physics
+1949	3 biotech
+1950	critical reviews in toxicology
+1951	chemistry & biodiversity
+1952	journal of neurologic physical therapy : jnpt
+1953	expert opinion on medical diagnostics
+1954	cardiorenal medicine
+1955	neuromodulation : journal of the international neuromodulation society
+1956	wormbook : the online review of c. elegans biology
+1957	blood cells, molecules & diseases
+1958	mechanics research communications
+1959	neoreviews
+1960	bmc complementary and alternative medicine
+1961	ieee/acm transactions on computational biology and bioinformatics / ieee, acm
+1962	clinical and translational medicine
+1963	african health sciences
+1964	acta naturae
+1965	implementation science : is
+1966	african journal of traditional, complementary, and alternative medicines : ajtcam
+1967	comprehensive physiology
+1968	wiley interdisciplinary reviews. membrane transport and signaling
+1969	wiley interdisciplinary reviews. developmental biology
+1970	anemia
+1971	plant physiology and biochemistry : ppb / societe francaise de physiologie
+1972	actualizaciones en osteologia
+1973	korean journal of anesthesiology
+1974	endocrinology and metabolism clinics of north america
+1975	journal of biological engineering
+1976	chemistry (weinheim an der bergstrasse, germany)
+1977	cellular oncology (dordrecht)
+1978	aids research and treatment
+1979	bmc pulmonary medicine
+1980	international journal of biomaterials
+1981	indian journal of pharmacology
+1982	international journal of rheumatology
+1983	american journal of clinical pathology
+1984	breast cancer (tokyo, japan)
+1985	cephalalgia : an international journal of headache
+1986	tetrahedron
+1987	basal ganglia
+1988	oncoimmunology
+1989	bmc dermatology
+1990	drugs
+1991	expert review of ophthalmology
+1992	computational and structural biotechnology journal
+1993	iranian red crescent medical journal
+1994	journal of genetic syndrome & gene therapy
+1995	american journal of neurodegenerative disease
+1996	the epma journal
+1997	biology of mood & anxiety disorders
+1998	oncology letters
+1999	brain and behavior
+2000	current protocols in neuroscience / editorial board, jacqueline n. crawley ...
+2001	current protocols in cytometry / editorial board, j. paul robinson, managing
+2002	molecular therapy. nucleic acids
+2003	the open biology journal
+2004	journal of pathology informatics
+2005	extremophiles : life under extreme conditions
+2006	journal of child neurology
+2007	current heart failure reports
+2008	multiscale modeling & simulation : a siam interdisciplinary journal
+2009	experimental & applied acarology
+2010	systematic reviews
+2011	amia summits on translational science proceedings amia summit on translational
+2012	mycobiology
+2013	journal of geriatric cardiology : jgc
+2014	journal of aids & clinical research
+2015	organic & biomolecular chemistry
+2016	reports on progress in physics. physical society (great britain)
+2017	journal of pain research
+2018	cytotherapy
+2019	chemical communications (cambridge, england)
+2020	the open rheumatology journal
+2021	journal of surgical oncology
+2022	evolutionary bioinformatics online
+2023	journal of gastrointestinal oncology
+2024	biomedical engineering online
+2025	journal of clinical & experimental cardiology
+2026	hereditary cancer in clinical practice
+2027	reproduction in domestic animals = zuchthygiene
+2028	blood cancer journal
+2029	archives of dermatological research
+2030	journal of ocular biology, diseases, and informatics
+2031	annals of palliative medicine
+2032	seminars in nephrology
+2033	bmc nephrology
+2034	journal of radiation research
+2035	journal of pregnancy
+2036	congestive heart failure (greenwich, conn.)
+2037	expert review of neurotherapeutics
+2038	journal of plant physiology
+2039	intervirology
+2040	minerva cardioangiologica
+2041	european journal of gynaecological oncology
+2042	epilepsy research and treatment
+2043	histopathology
+2044	expert review of clinical immunology
+2045	human antibodies
+2046	topics in current chemistry
+2047	drug, healthcare and patient safety
+2048	advances in genomics and genetics
+2049	journal of cheminformatics
+2050	annual review of nursing research
+2051	journal of fertilization in vitro
+2052	chemoecology
+2053	human vaccines & immunotherapeutics
+2054	journal of toxicologic pathology
+2055	critical reviews in clinical laboratory sciences
+2056	proceedings of spie
+2057	adipocyte
+2058	cholesterol
+2059	bioengineered
+2060	journal of clinical & cellular immunology
+2061	the european physical journal. e, soft matter
+2062	medical gas research
+2063	autism research and treatment
+2064	cognitive neurodynamics
+2065	translational cancer research
+2066	global health action
+2067	current protocols in bioinformatics / editoral board, andreas d. baxevanis ...
+2068	diabetes & metabolism journal
+2069	pathobiology of aging & age related diseases
+2070	clinics in perinatology
+2071	journal of animal science and biotechnology
+2072	journal of gastroenterology
+2073	molecular ecology
+2074	european cells & materials
+2075	international journal of chronic obstructive pulmonary disease
+2076	leukemia research and treatment
+2077	therapeutic advances in neurological disorders
+2078	current diabetes reports
+2079	translational andrology and urology
+2080	degenerative neurological and neuromuscular disease
+2081	beilstein journal of nanotechnology
+2082	reviews on environmental health
+2083	diabetes management (london, england)
+2084	clinical sarcoma research
+2085	european urology
+2086	korean journal of pediatrics
+2087	pharmacogenomics
+2088	experimental hematology & oncology
+2089	current protocols in chemical biology
+2090	development and psychopathology
+2091	iranian journal of microbiology
+2092	elife
+2093	international journal of women's health
+2094	radiology and oncology
+2095	translational biomedicine
+2096	immunopharmacology and immunotoxicology
+2097	recent patents on biotechnology
+2098	diabetology & metabolic syndrome
+2099	indian journal of clinical biochemistry : ijcb
+2100	genomics & informatics
+2101	journal of the american heart association
+2102	breeding science
+2103	sheng wu wu li hsueh bao
+2104	evolutionary applications
+2105	therapeutic advances in endocrinology and metabolism
+2106	hepatitis monthly
+2107	tuberculosis and respiratory diseases
+2108	best practice & research. clinical endocrinology & metabolism
+2109	ecology and evolution
+2110	siam review. society for industrial and applied mathematics
+2111	computing and visualization in science
+2112	surgery today
+2113	cardiovascular journal of africa
+2114	computational intelligence and neuroscience
+2115	advances in bioinformatics
+2116	advances in biological regulation
+2117	stem cells translational medicine
+2118	endocrine
+2119	journal of bioterrorism & biodefense
+2120	cilia
+2121	translational neurodegeneration
+2122	tuberculosis research and treatment
+2123	journal of drug delivery
+2124	isrn cardiology
+2125	europace : european pacing, arrhythmias, and cardiac electrophysiology : journal
+2126	pharmacogenomics and personalized medicine
+2127	clinical and translational gastroenterology
+2128	canadian journal of chemistry
+2129	trends in cell & molecular biology
+2130	journal of veterinary science
+2131	international journal of preventive medicine
+2132	cellular and molecular biology (noisy-le-grand, france)
+2133	sultan qaboos university medical journal
+2134	bacteriophage
+2135	the world allergy organization journal
+2136	the open aids journal
+2137	journal of huntington's disease
+2138	medchemcomm
+2139	bmc cardiovascular disorders
+2140	amia ... annual symposium proceedings / amia symposium. amia symposium
+2141	american journal of clinical and experimental immunology
+2142	bmc pharmacology & toxicology
+2143	medical science monitor basic research
+2144	israel journal of chemistry
+2145	saudi journal of gastroenterology : official journal of the saudi
+2146	depression research and treatment
+2147	korean journal of pathology
+2148	bmc veterinary research
+2149	medical oncology (northwood, london, england)
+2150	world journal of orthopedics
+2151	hepatology research : the official journal of the japan society of hepatology
+2152	biology
+2153	molecular phylogenetics and evolution
+2154	cancer medicine
+2155	therapeutics and clinical risk management
+2156	journal of peptide science : an official publication of the european peptide
+2157	scientifica
+2158	current trends in immunology
+2159	world journal of hepatology
+2160	advances in bioscience and biotechnology (print)
+2161	journal of stem cell research & therapy
+2162	chinese journal of cancer research = chung-kuo yen cheng yen chiu
+2163	beilstein journal of organic chemistry
+2164	cancer immunity
+2165	journal of health care for the poor and underserved
+2166	journal of applied crystallography
+2167	current nutrition reports
+2168	springerplus
+2169	avian diseases
+2170	journal of biomedical semantics
+2171	pathology oncology research : por
+2172	avicenna journal of medical biotechnology
+2173	journal of health communication
+2174	annual review of chemical and biomolecular engineering
+2175	medical hypotheses
+2176	gigascience
+2177	pathogens
+2178	journal of vaccines & vaccination
+2179	expert opinion on drug delivery
+2180	current opinion in organ transplantation
+2181	jimd reports
+2182	isrn endocrinology
+2183	indian dermatology online journal
+2184	tremor and other hyperkinetic movements (new york, n.y.)
+2185	current topics in genetics
+2186	cerebrum : the dana forum on brain science
+2187	studies in mycology
+2188	trends in cancer research
+2189	standards in genomic sciences
+2190	sports medicine (auckland, n.z.)
+2191	worm
+2192	european journal of clinical nutrition
+2193	metabolomics : official journal of the metabolomic society
+2194	current bioinformatics
+2195	medical journal of the islamic republic of iran
+2196	biomed research international
+2197	acta psychiatrica scandinavica
+2198	algorithms for molecular biology : amb
+2199	journal of ophthalmic & vision research
+2200	computational science & discovery
+2201	journal of clinical & experimental pathology
+2202	cell journal
+2203	f1000prime reports
+2204	bioresearch open access
+2205	therapeutic advances in musculoskeletal disease
+2206	febs open bio
+2207	core evidence
+2208	advanced functional materials
+2209	the korean journal of internal medicine
+2210	the ochsner journal
+2211	oncogenesis
+2212	anatomy & physiology : current research
+2213	molecular medicine & therapeutics
+2214	cancer growth and metastasis
+2215	journal of biomedical research
+2216	therapeutic advances in hematology
+2217	letters in drug design & discovery
+2218	circulation journal : official journal of the japanese circulation society
+2219	physiology journal
+2220	clinical and molecular hepatology
+2221	p & t : a peer-reviewed journal for formulary management
+2222	biomatter
+2223	molecular ecology resources
+2224	asian pacific journal of tropical biomedicine
+2225	journal of natural science, biology, and medicine
+2226	peerj
+2227	american journal of physical anthropology
+2228	biodrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy
+2229	transfusion medicine and hemotherapy : offizielles organ der deutschen
+2230	ecancermedicalscience
+2231	case reports in oncological medicine
+2232	journal of biochemical and pharmacological research
+2233	discrete and continuous dynamical systems. series a
+2234	statistics in biosciences
+2235	redox biology
+2236	american journal of stem cells
+2237	international journal of genomics
+2238	clinical, cosmetic and investigational dentistry
+2239	international journal of biomedical science : ijbs
+2240	mens sana monographs
+2241	journal of molecular biochemistry
+2242	cancer biology & medicine
+2243	journal of diabetes research
+2244	international journal for quality in health care : journal of the international
+2245	british medical bulletin
+2246	bonekey reports
+2247	journal of computational and theoretical nanoscience
+2248	biochemistry (moscow) supplement. series a, membrane and cell biology
+2249	current translational geriatrics and experimental gerontology reports
+2250	indian journal of human genetics
+2251	annals of dermatology
+2252	journal of ginseng research
+2253	isrn allergy
+2254	isrn otolaryngology
+2255	world psychiatry : official journal of the world psychiatric association (wpa)
+2256	isrn veterinary science
+2257	muscles, ligaments and tendons journal
+2258	ilar journal / national research council, institute of laboratory animal
+2259	cardiovascular diagnosis and therapy
+2260	nutrition & diabetes
+2261	genetics, selection, evolution : gse
+2262	isrn microbiology
+2263	journal of glycomics & lipidomics
+2264	biomolecules
+2265	cellular reprogramming
+2266	the application of clinical genetics
+2267	postgraduate medical journal
+2268	contemporary oncology (poznan, poland)
+2269	the open cardiovascular medicine journal
+2270	neurodegenerative disease management
+2271	journal of diabetes and metabolic disorders
+2272	european journal of medical research
+2273	iranian journal of basic medical sciences
+2274	journal of biological regulators and homeostatic agents
+2275	cpt: pharmacometrics & systems pharmacology
+2276	journal of periodontal & implant science
+2277	tuberculosis (edinburgh, scotland)
+2278	extreme physiology & medicine
+2279	plant reproduction
+2280	acta otorhinolaryngologica italica : organo ufficiale della societa italiana di
+2281	perspectives in health information management / ahima, american health
+2282	the korean journal of parasitology
+2283	breast cancer management
+2284	isrn molecular biology
+2285	dermatology and therapy
+2286	chemical science (royal society of chemistry : 2010)
+2287	indian journal of pharmaceutical sciences
+2288	breast care (basel, switzerland)
+2289	jak-stat
+2290	translational medicine @ unisa
+2291	rambam maimonides medical journal
+2292	frontiers in life science
+2293	f1000research
+2294	nursing research and practice
+2295	journal of regenerative medicine
+2296	multidisciplinary respiratory medicine
+2297	autism-open access
+2298	kidney research and clinical practice
+2299	trends in developmental biology
+2300	cognitive computation
+2301	nano life
+2302	korean journal of urology
+2303	saudi pharmaceutical journal : spj : the official publication of the saudi
+2304	saudi journal of biological sciences
+2305	advanced biomedical research
+2306	journal of biomedical nanotechnology
+2307	microbial ecology in health and disease
+2308	journal of liver
+2309	clinical medicine insights. cardiology
+2310	biomolecules & therapeutics
+2311	journal of extracellular vesicles
+2312	infectious diseases in obstetrics and gynecology
+2313	molecular metabolism
+2314	acta neuropathologica communications
+2315	brain sciences
+2316	progress in pediatric cardiology
+2317	current proteomics
+2318	pharmaceutical patent analyst
+2319	biomarker research
